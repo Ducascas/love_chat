@@ -1,0 +1,39 @@
+[
+  {
+    "id": "0",
+    "photoUrl": "assets/images/art_mouse.jpg",
+    "text": "0",
+    "timeMsg": "2010-10-10 00:00:00"
+  },
+  {
+    "id": "1",
+    "photoUrl": "assets/images/snowboard.jpg",
+    "text": "Привет, как дела?",
+    "timeMsg": "2024-07-02 10:30:21"
+  },
+  {
+    "id": "2",
+    "photoUrl": "assets/images/art_street_girl.jpg",
+    "text": "Что делаешь? Встретимся?",
+    "timeMsg": "2024-07-02 11:31:24"
+  },
+  {
+    "id": "3",
+    "photoUrl": "assets/images/clubnichka.jpg",
+    "text": "Отлично, поехали!",
+    "timeMsg": "2024-07-02 13:03:11"
+  },
+  {
+    "id": "4",
+    "photoUrl": "assets/images/girl_sweater_white.jpg",
+    "text": "No love, just sex!",
+    "timeMsg": "2024-07-02 11:31:24"
+  },
+  {
+    "id": "5",
+    "photoUrl": "assets/images/girl_sweater.jpg",
+    "text": "",
+    "timeMsg": "2024-07-02 13:03:11"
+  },
+
+]
